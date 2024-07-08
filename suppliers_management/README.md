@@ -8,6 +8,7 @@
 
 ## Инструменты
 
+- **postgresql**
 - **python**
 - **faker**
 - sqlalchemy.**create_engine**
