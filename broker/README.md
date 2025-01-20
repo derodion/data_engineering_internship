@@ -13,15 +13,15 @@
 - **faker**
 - **sqlalchemy**
 - **airflow**
+- **requests**
+- **pyspark**
+- **pandas**
+- **numpy**
+- **random**
+- **datetime**
 - **os**
 - **dotenv**
 - **json**
-- **requests**
-- **pyspark**
-- **numpy**
-- **pandas**
-- **random**
-- **datetime**
 
 ## Общий вывод
 
